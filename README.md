@@ -5,7 +5,7 @@
 ### 💻 Full Stack Developer | 🚀 MERN Stack Enthusiast | ⚡ Problem Solver
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanmoysin)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:tanmoysin1997@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-Call-25D366?style=for-the-badge&logo=whatsapp)](tel:+919774575768)
 
@@ -17,223 +17,36 @@
 
 ## 🚀 About Me
 
-```javascript
 const tanmoy = {
+    pronouns: "He",
     location: "Agartala, Tripura, India 🇮🇳",
     role: "Full Stack Developer",
-    currentWork: "Frontend Developer @ NIC",
+    company: '["Frontend Developer", "@ NIC"]',
     experience: "2+ years",
     specialization: ["React.js", "Node.js", "MERN Stack", "IoT Integration"],
     passions: ["Clean Code", "System Design", "Problem Solving"],
     askMeAbout: ["Web Development", "API Design", "Real-time Systems"],
     funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
-🔭 Currently working on NextGen HRMS Portal using React.js + Redux
 
-🌱 Learning Microservices Architecture & Cloud Services
-
-💬 Ask me about React, Node.js, Express, MongoDB, REST APIs
-
-📫 Reach me at: tanmoysin1997@gmail.com
-
-⚡ Fun fact: I turn coffee into code! ☕➡️💻
+<div align="center"> 🔭 Currently working on **NextGen HRMS Portal** using React.js + Redux 🌱 Learning **Microservices Architecture** & **Cloud Services** 💬 Ask me about **React, Node.js, Express, MongoDB, REST APIs** 📫 Reach me at: <a href="mailto:tanmoysin1997@gmail.com">tanmoysin1997@gmail.com</a> ⚡ Fun fact: **I turn coffee into code!** ☕➡️💻 </div>
 
 🛠️ Tech Stack
-💻 Languages
-JavaScript
-TypeScript
-Python
-Java
-C++
-
-🎨 Frontend
-React
-Redux
-Next.js
-Tailwind CSS
-Material-UI
-Bootstrap
-HTML5
-CSS3
-SASS
-
-⚙️ Backend
-Node.js
-Express.js
-Socket.io
-MQTT
-JWT
-REST API
-
+💻 Languages & Frontend
+<div align="center"> <img src="https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Redux-Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI" /> </div>
+⚙️ Backend & Tools
+<div align="center"> <img src="https://img.shields.io/badge/Node.js-18+-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" /> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </div>
 🗄️ Databases
-MongoDB
-MySQL
-PostgreSQL
-Redis
-
-🛠️ Tools & Others
-Git
-GitHub
-Docker
-Postman
-VS Code
-Nginx
-Linux
-NPM
-
+<div align="center"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> </div>
 💼 Professional Experience
 🏢 Frontend Developer @ National Informatics Centre (NIC)
 Current Position
 
-🚀 Developing NextGen HRMS Portal using React.js with Redux for complex state management
-
-👥 Implementing role-based access control for 1000+ users across multiple departments
-
-🎨 Building responsive UI components with Material-UI following government design standards
-
-🔗 Collaborating with backend team for seamless API integration and data flow
-
-⚡ Optimizing application performance for better user experience
-
+<div align="center"> 🚀 NextGen HRMS Portal (React.js + Redux) 👥 Role-based access control for **1000+ users** 🎨 Material-UI components following government standards ⚡ Performance optimization for better UX </div>
 💡 Full Stack Developer @ NexusTech Innovation
 Previous Role
 
-🏗️ Architected scalable MERN stack applications serving 500+ daily active users
-
-📡 Integrated MQTT protocol for real-time IoT device communication and monitoring
-
-🔧 Developed microservices architecture reducing API response time by 40%
-
-🌐 Built RESTful APIs handling 10,000+ requests per day with 99.9% uptime
-
-📊 Implemented analytics dashboard for real-time data visualization
-
-🔐 Developed secure authentication system with JWT and role-based permissions
-
+<div align="center"> 🏗️ Scalable MERN stack apps (**500+ DAU**) 📡 MQTT protocol for real-time IoT ⚡ **40% faster** API response times 🌐 RESTful APIs (**10K+ requests/day**, 99.9% uptime) </div>
 🏆 Featured Projects
 🎯 Task Management System
 Multi-tenant SaaS platform with real-time collaboration
-
-Tech Stack: React, Node.js, MongoDB, Socket.io, Redux
-Highlights:
-
-✅ Real-time task updates using WebSockets
-
-✅ Role-based access control (Admin, Manager, Member)
-
-✅ Team collaboration with comments and mentions
-
-✅ Analytics dashboard with performance metrics
-
-✅ 500+ daily active users
-
-View Project
-
-🎓 Placement Cell Portal
-College placement management system with dual portals
-
-Tech Stack: Node.js, Express, MongoDB, EJS, Bootstrap
-Highlights:
-
-👔 Separate portals for companies and students
-
-📅 Interview scheduling and status tracking
-
-📊 Excel/CSV export for administrative reports
-
-📧 Email verification with Nodemailer
-
-🎨 Responsive design for all devices
-
-View Project
-
-🔐 Secure Authentication System
-JWT-based authentication with email verification
-
-Tech Stack: Node.js, Express, MongoDB, JWT, Bcrypt
-Highlights:
-
-🔒 Password hashing using bcrypt
-
-📧 Email verification with Nodemailer
-
-🔑 Password reset functionality
-
-🍪 Secure cookie handling
-
-🛡️ Session management
-
-View Project
-
-🎵 Music Player (Coding Ninja)
-Feature-rich music player with playlist management
-
-Tech Stack: HTML, CSS, JavaScript
-Highlights:
-
-🎶 Custom audio controls
-
-📝 Playlist creation and management
-
-🔊 Volume control and equalizer
-
-📱 Responsive design
-
-⚡ Lightweight and fast
-
-View Project
-
-📈 GitHub Stats
-<div align="center">
-GitHub Stats
-
-Top Languages
-
-GitHub Streak
-
-</div>
-🎓 Certifications
-🏅 Backend Development with Node.js - Coding Ninjas
-🏅 Frontend Development with React - Coding Ninjas
-🏅 JavaScript Fundamentals - Coding Ninjas
-🏅 Data Structures & Algorithms - Coding Ninjas
-
-💡 What I Bring to the Table
-text
-✨ Clean, Maintainable Code
-🚀 Fast & Scalable Applications
-🎨 Pixel-Perfect UI Implementation
-🔧 Problem-Solving Mindset
-🤝 Team Collaboration
-📚 Continuous Learning
-🌟 Core Competencies
-Frontend: React.js, Redux, TypeScript, Responsive Design, Performance Optimization
-
-Backend: Node.js, Express.js, RESTful APIs, Microservices, WebSocket
-
-Database: MongoDB, MySQL, Database Design, Query Optimization
-
-DevOps: Git, Docker, CI/CD, Nginx, Linux
-
-Specialties: MQTT Protocol, IoT Integration, Real-time Systems, SaaS Applications
-
-📫 Get In Touch
-<div align="center">
-Email
-Phone
-LinkedIn
-Portfolio
-
-</div>
-<div align="center">
-💭 Quote of the Day
-Quote
-
-👀 Profile Views
-Profile Views
-
-⭐ From TanmoySin with ❤️
-
-"Code is like humor. When you have to explain it, it's bad." - Cory House
-
-</div>
