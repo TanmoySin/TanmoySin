@@ -10,7 +10,5 @@
 [![Phone](https://img.shields.io/badge/Phone-Call-25D366?style=for-the-badge&logo=whatsapp)](tel:+919774575768)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Apps;2%2B+Years+of+Experience" alt="Typing SVG" />
-
-<div align="center"> 🔭 Currently working on **NextGen HRMS Portal** using React.js + Redux 🌱 Learning **Microservices Architecture** & **Cloud Services** 💬 Ask me about **React, Node.js, Express, MongoDB, REST APIs** 📫 Reach me at: <a href="mailto:tanmoysin1997@gmail.com">tanmoysin1997@gmail.com</a> ⚡ Fun fact: **I turn coffee into code!** ☕➡️💻 </div>
 </div>
 
