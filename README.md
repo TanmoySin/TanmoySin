@@ -1,15 +1,14 @@
-# 💫 About Me:
-<br>🔭 Currently working on NextGen HRMS Portal using React.js + Redux<br><br>🌱 Learning Microservices Architecture & Cloud Services<br><br>💬 Ask me about React, Node.js, Express, MongoDB, REST APIs<br><br>📫 Reach me at: tanmoysin1997@gmail.com<br><br>⚡ Fun fact: I turn coffee into code! ☕➡️💻
+<div align="center">
 
+# Hi there, I'm Tanmoy Sinha! 👋
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TanmoySin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TanmoySin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmoySin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 💻 Full Stack Developer | 🚀 MERN Stack Enthusiast | ⚡ Problem Solver
 
----
-[![](https://visitcount.itsvg.in/api?id=TanmoySin&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:tanmoysin1997@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-Call-25D366?style=for-the-badge&logo=whatsapp)](tel:+919774575768)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Apps;2%2B+Years+of+Experience" alt="Typing SVG" />
+
+</div>
